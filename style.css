@@ -28,3 +28,10 @@ li.none-bg {background:none!important;}
 .left ul li a {display:block; width:195px; color:#fff; text-decoration:none; padding:10px 5px 10px 40px; background: url(images/marker.png) no-repeat 10px 8px;}
 .left ul li a:hover {background:#ff9c00 url(images/marker.png) no-repeat 10px 8px;}
 li.none-bg {background:none!important;}
+/*Подвал*/
+.myclr {clear:both; float:none; width:100%; height:1px;}
+#podval {border-top:10px solid #4c281e; margin-top:20px;}
+.yellow {width:940px; height:5px; margin:0 auto; background:#ff9c00;}
+.p1 {float:left; width:300px; padding:15px 0 0 0;}
+.p2 {float:right; width:200px; text-align:right; padding:15px 20px 0 0;}
+.p3 {float:right; width:30px; padding:15px 0 0 0;}
