@@ -4,3 +4,6 @@ body {padding:0px; margin:0; background:#4c281e; font-size:14px; font-family:Ari
 img {border:0;}
 a {color:#ff9c00;}
 a:hover {text-decoration:none;}
+/*Шапка сайта*/
+li.none-bg {background:none!important;}
+.telefon {float:right;}
