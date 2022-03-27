@@ -4,9 +4,6 @@ body {padding:0px; margin:0; background:#6C006C; font-size:14px; font-family:Ari
 img {border:0;}
 a {color:#A600A6;}
 a:hover {text-decoration:none;}
-/*Шапка сайта*/
-li.none-bg {background:none!important;}
-.telefon {float:right;}
 /*Верхнее меню сайта*/
 #top-menu {width:960px; height:74px; }
 .bg-1 {width:950px; height:64px; background:#6C006C url(images/m1.png) repeat-x; padding:0 0 0 10px;}
